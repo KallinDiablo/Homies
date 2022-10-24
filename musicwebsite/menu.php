@@ -68,7 +68,7 @@ text-align: center;
 </head>
 <body>
   <?php
-  $connect= mysqli_connect('localhost','root','','musicwebsite');
+  $connect= mysqli_connect('192.168.26.128','duc','123@123a','musicwebsite');
 ?>
 <!-- menu -->
 <header class="p-3 mb-3 border-bottom">
